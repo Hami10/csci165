@@ -3,7 +3,7 @@
 <title>Home</title>
 </head>
 <body>
-Hi, my name is yourname .
+Hi, my name is Harmandeep.
 </body>
 </html>
 
